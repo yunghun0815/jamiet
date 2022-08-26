@@ -7,7 +7,7 @@
 <title>재미어트</title>
 <style type="text/css">
 	.mainImageBox{
-		width: 100%;
+	    width: 1640px;
 	    height: 530px;
 	    margin: 0 auto;
 	}
@@ -123,7 +123,7 @@
 					<span class="realPrice">279,000원</span>		
 				</td>
 				<td>
-					<a href="../item/itemDetail.jsp"><img class="itemImage" src="images/9.jpg"></a>
+					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/9.jpg"></a>
 					<span class="discount">28%</span><br>
 					<a href="item/itemDetail.jsp"><span class="itemTitle">[전용매트증정]번업 머신</span><br></a>
 					<span class="price">279,000원</span>
@@ -144,7 +144,7 @@
 					<span class="realPrice">12,000원</span>		
 				</td>
 				<td>
-					<a href="tem/itemDetail.jsp"><img class="itemImage" src="images/5.jpg"></a>
+					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/5.jpg"></a>
 					<span class="discount">29%</span><br>
 					<a href="item/itemDetail.jsp"><span class="itemTitle">재미어트 썸탈꺼닭 닭가슴살 스테이크</span><br></a>
 					<span class="price">24,900원</span>

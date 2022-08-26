@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <style type="text/css">
 	.mainImageBox{
-		width: 100%;
+	    width: 1640px;
 	    height: 530px;
 	    margin: 0 auto;
 	}
@@ -121,7 +121,7 @@
 	<h1 class="mainImageTitle" >통 수비드 등심을 찢은<br>145kcal 풀드포크<br><br>3가지 맛 폭식사냥</h1>
 </div>	
 <main class="food">
-	<p class="recomandTitle">쌤이 허락한 단백질 식단</p>
+	<p class="recomandTitle">성현이가 허락한 단백질 식단</p>
 	<div class="recomandBox flex">
 		<div class="leftImg">
 			<a href="../item/itemDetail.jsp"><img src="../images/4.jpg"></a>		
@@ -138,7 +138,7 @@
 			</div>		
 		</div>	
 	</div>
-	<p class="recomandTitle" style="margin-top: 100px;">타트체리에 빠져버렸어</p>
+	<p class="recomandTitle" style="margin-top: 100px;">영훈.. 타트체리에 빠져버렸어</p>
 	<div class="recomandBox flex">
 		<div class="leftImg">
 			<a href="../item/itemDetail.jsp"><img src="../images/3.jpg"></a>			

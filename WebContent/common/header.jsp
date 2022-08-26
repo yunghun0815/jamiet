@@ -9,6 +9,9 @@
 	font-family: 'Noto Sans KR', sans-serif;
 }
 	header{
+		width: 1640px;
+		position: relative;
+		margin: 0 auto;
 		height: 100px;
 		padding: 0 30px;
 		margin-bottom: 50px;
@@ -36,6 +39,27 @@
 	header div:nth-child(3) {
 		position: absolute;
 		right: 5%;
+	}
+	#headerSearch{
+		position: relative;
+	}
+	#headerSearchIcon{
+		cursor: pointer;
+	}
+	#headerSearchIcon:hover + #headerSearchBox{
+		display: inline;
+	}
+	#headerSearchBox:hover{
+		display: inline;
+	}
+	#headerSearchBox{
+	    position: absolute;
+	    top: -4px;
+	    right: 24px;
+	    width: 200px;
+	    height: 30px;
+	    text-align: center;	
+	    display: none;
 	}
 </style>
 <header class="flex">
@@ -66,8 +90,9 @@
 			<li>
 				<a href="<%=cv%>/item/basket.jsp"><img src="<%=cv%>/images/basket.png"></a>
 			</li>
-			<li>
-				<img src="<%=cv%>/images/search.png">
+			<li id="headerSearch">
+				<img id="headerSearchIcon" src="<%=cv%>/images/search.png">
+				<input id="headerSearchBox" type="text" placeholder="검색어를 입력해주세요.">
 			</li>
 		</ul>
 	</div>

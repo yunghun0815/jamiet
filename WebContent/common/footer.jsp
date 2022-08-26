@@ -2,6 +2,8 @@
     pageEncoding="UTF-8"%>
 <style>
 	footer{
+		width: 1640px;
+		margin: 0 auto;
 		margin-top: 100px;
 	}
 	footer div:first-child {
