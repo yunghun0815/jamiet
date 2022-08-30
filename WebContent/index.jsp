@@ -5,6 +5,8 @@
 <head>
 <meta charset="UTF-8">
 <title>재미어트</title>
+<script type="text/javascript">
+</script>
 <style type="text/css">
 	.mainImageBox{
 	    width: 1640px;
@@ -102,12 +104,19 @@
 		<table class="itemTable">
 			<tr>
 				<td>
+					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/bj.png"></a>
+					<span class="discount">0%</span><br>
+					<a href="item/itemDetail.jsp"><span class="itemTitle">최병준</span><br></a>
+					<span class="price">999,999,999원</span>
+					<!-- <span class="realPrice">289,000원</span> -->
+				</td>
+<!-- 				<td>
 					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/6.jpg"></a>
 					<span class="discount">28%</span><br>
 					<a href="item/itemDetail.jsp"><span class="itemTitle">[풀업밴드증정]NEW 힘콩철봉 치닝디핑</span><br></a>
 					<span class="price">209,000원</span>
 					<span class="realPrice">289,000원</span>
-				</td>
+				</td> -->
 				<td>
 					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/7.jpg"></a>
 					<span class="discount">32%</span><br>

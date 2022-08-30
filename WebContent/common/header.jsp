@@ -80,6 +80,9 @@
 			<li>
 				<a href="<%=cv%>/item/review.jsp">리뷰</a>
 			</li>
+			<li>
+				<a href="<%=cv%>/bootstrap.jsp">kosa</a>
+			</li>
 		</ul>
 	</div>
 	<div>
