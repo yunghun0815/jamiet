@@ -64,7 +64,7 @@
 </style>
 <header class="flex">
 	<div>
-		<a href="<%=cv%>"><img src="<%=cv%>/images/jamiet.jpg"></a>
+		<a href="<%=cv%>"><img style="width: 130px;" src="<%=cv%>/images/newLogo.png"></a>
 	</div>
 	<div>
 		<ul class="flex">

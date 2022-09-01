@@ -99,15 +99,15 @@
 </div>	
 <main class="main">
 		<div class="itemTitle">
-			<span>베스트 아이템</span>
+			<span>베스트 트레이너</span>
 		</div>
 		<table class="itemTable">
 			<tr>
 				<td>
 					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/bj.png"></a>
 					<span class="discount">0%</span><br>
-					<a href="item/itemDetail.jsp"><span class="itemTitle">최병준</span><br></a>
-					<span class="price">999,999,999원</span>
+					<a href="item/itemDetail.jsp"><span class="itemTitle">최병준 트레이너</span><br></a>
+					<span class="price">회당 100,000원</span>
 					<!-- <span class="realPrice">289,000원</span> -->
 				</td>
 <!-- 				<td>
@@ -117,14 +117,35 @@
 					<span class="price">209,000원</span>
 					<span class="realPrice">289,000원</span>
 				</td> -->
-				<td>
+<!-- 				<td>
 					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/7.jpg"></a>
 					<span class="discount">32%</span><br>
 					<a href="item/itemDetail.jsp"><span class="itemTitle">[풀업밴드증정]리틀 힘콩철봉 치닝디핑</span><br></a>
 					<span class="price">169,000원</span>
 					<span class="realPrice">249,000원</span>
+				</td> -->
+				<td>
+					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/yb.png"></a>
+					<span class="discount">50%</span><br>
+					<a href="item/itemDetail.jsp"><span class="itemTitle">고은별 트레이너</span><br></a>
+					<span class="price">회당 35,000원</span>
+					<span class="realPrice">회당 70,000원</span>
 				</td>
 				<td>
+					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/yh.jpg"></a>
+					<span class="discount">25%</span><br>
+					<a href="item/itemDetail.jsp"><span class="itemTitle">정영훈 트레이너</span><br></a>
+					<span class="price">회당 150,000원</span>
+					<span class="realPrice">200,000원</span>
+				</td>
+				<td>
+					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/sh.jpg"></a>
+					<span class="discount">25%</span><br>
+					<a href="item/itemDetail.jsp"><span class="itemTitle">이성현 트레이너</span><br></a>
+					<span class="price">회당 150,000원</span>
+					<span class="realPrice">200,000원</span>
+				</td>
+<!-- 				<td>
 					<a href="item/itemDetail.jsp"><img class="itemImage" src="images/8.jpg"></a>
 					<span class="discount">29%</span><br>
 					<a href="item/itemDetail.jsp"><span class="itemTitle">[풀업밴드증정]힘콩 철봉 치닝디핑</span><br></a>
@@ -137,7 +158,7 @@
 					<a href="item/itemDetail.jsp"><span class="itemTitle">[전용매트증정]번업 머신</span><br></a>
 					<span class="price">279,000원</span>
 					<span class="realPrice">389,000원</span>
-				</td>
+				</td> -->
 			</tr>
 			<tr>
 				<td class="infoBox">

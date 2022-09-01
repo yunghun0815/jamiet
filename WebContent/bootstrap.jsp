@@ -80,8 +80,8 @@
 </head>
 <%@ include file="common/header.jsp"%>
 <script type="text/javascript">
-
 	
+	 
 	$(function(){
 		$(".main-item>ul>li").hide();
 		$(".main-item>ul>li:first-child").show();

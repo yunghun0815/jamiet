@@ -10,9 +10,6 @@
     "browser-extension": {
       
     },
-    "ckeditor4.4.x": {
-      
-    },
     "jquery-ui1-12": {
       
     },
@@ -24,6 +21,7 @@
     }
   },
   "libs": [
+    "ecma5",
     "browser",
     "jquery"
   ]
